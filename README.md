@@ -1,11 +1,11 @@
 <h2>Hi 👋, I'm Burcu</h2>
 - 🌱 I’m currently learning C#, Angular
 
-- 📫 How to reach me **burcutas636@gmail.com**
+- 📫 How to reach me: **burcutas636@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/burcu taş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burcu taş" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/burcu taş](https://www.linkedin.com/in/burcu-ta%C5%9F-3985a0234/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burcu taş" height="30" width="40" /></a>
 <a href="https://instagram.com/burcu_dark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burcu_dark" height="30" width="40" /></a>
 </p>
 
