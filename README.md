@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Burcu</h2>
-- 🌱 I’m currently learning **C#, Angular**
+- 🌱 I’m currently learning C#, Angular
 
 - 📫 How to reach me **burcutas636@gmail.com**
 
