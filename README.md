@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Burcu</h2>
 
-- 🌱 I’m currently learning C#, MySql
+- 🌱 I’m currently learning C#, JavaScript
 
 - 📫 How to reach me **burcutas636@gmail.com**
 
