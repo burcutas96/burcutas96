@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **burcutas636@gmail.com**
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="620" height="350"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
