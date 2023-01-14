@@ -1,6 +1,6 @@
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Hi, I'm Burcu</h2>
 
-- 🌱 I’m currently learning C#, JavaScript
+- 🌱 I’m currently learning C#
 
 - 📫 How to reach me **burcutas636@gmail.com**
 
@@ -51,9 +51,6 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burcutas96&show_icons=true&locale=en&layout=compact" alt="burcutas96" />
-</p>
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
