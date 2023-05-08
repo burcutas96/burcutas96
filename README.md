@@ -1,6 +1,6 @@
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Hi, I'm Burcu</h2>
 
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning Bootstrap, C#
 
 - 📫 How to reach me **burcutas636@gmail.com**
 
